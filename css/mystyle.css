@@ -1,0 +1,6 @@
+.bgimg1{
+  background-image: image(assets/img/1.png)  !important;
+}
+body {
+  background-image: url("assets/img/1.png"), url("assets/img/4.png");
+}

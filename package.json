@@ -1,0 +1,16 @@
+{
+  "name": "startbootstrap-resume-gh-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Fraol-D.github.io/mybio"
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
